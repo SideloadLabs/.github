@@ -29,7 +29,9 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 </div>
 
 ---
+### 💬 Socials
 
+- **Telegram:** [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">](https://t.me/compiledipas) Join our channel for updates and IPAs at [t.me/compiledipas](https://t.me/compiledipas).
 ---
 
 ### 🌐 Connect & Support
