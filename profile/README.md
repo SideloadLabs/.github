@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=SideloadLabs&fontSize=50&fontColor=fff&animation=fadeIn&fontY=35" width="100%" />
 
-  <p><em>Enhancing your app experiences on iOS with tweaks :).</em></p>
+  <p><em>Enhancing your app experiences on iOS with tweaks :)</em></p>
 
   <p>
     <a href="https://github.com/SideloadLabs"><img src="https://img.shields.io/badge/GitHub-SideloadLabs-181717?style=flat-square&logo=github" alt="GitHub Organization"></a>
