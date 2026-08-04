@@ -29,6 +29,18 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 </div>
 
 ---
+
+### 👥 Maintainers
+
+<div align="center">
+
+| Member | Role | GitHub |
+| :--- | :--- | :--- |
+| **jaydenjcpy** | Maintainer / Developer | [@jaydenjcpy](https://github.com/jaydenjcpy) |
+| **faroukbmiled** | Maintainer / Developer | [@faroukbmiled](https://github.com/faroukbmiled) |
+| **Mod4** | Maintainer / Developer | [@Mod4](https://github.com/Mod4) |
+
+---
 ### 💬 Socials
 
 - [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">](https://t.me/compiledipas) Join our channel for updates and IPAs at [t.me/compiledipas](https://t.me/compiledipas).
