@@ -25,7 +25,8 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated)** | Enhancing your Spotify experience on iOS. Continuing the legacy with modern architectures, custom lyrics support, and upstream bug fixes. | 🟢 **Active** |
-| **[Infinitok](https://github.com/SideloadLabs/Infinitok)** | A super duper cool TikTok tweak |  🟡  **To Be Released** |
+| **[Infinitok](https://github.com/SideloadLabs/Infinitok-public)** | A super duper cool TikTok tweak |  🟡  **Source to Be Released** |
+| **[AppNest](https://github.com/SideloadLabs/AppNest)** | The best LiveContainer fork |  🟢 **Active** |
 
 </div>
 
@@ -39,7 +40,7 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 | :--- | :--- | :--- |
 | **jaydenjcpy** | Maintainer / Developer | [@jaydenjcpy](https://github.com/jaydenjcpy) |
 | **faroukbmiled** | Maintainer / Developer | [@faroukbmiled](https://github.com/faroukbmiled) |
-| **M0d-4** | Maintainer / Developer | [@M0d-4](https://github.com/M0d-4) |
+| **Mod4** | Maintainer / Developer | [@Mod4](https://github.com/M0d-4) |
 
 ---
 ### 💬 Socials
