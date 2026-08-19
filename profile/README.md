@@ -43,6 +43,18 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 | **Mod4** | Maintainer / Developer | [@Mod4](https://github.com/M0d-4) |
 
 ---
+
+### ☕ Support & Donations
+
+If you'd like to support the team members directly for their work and reverse engineering efforts:
+
+| Member | Platform | Donation Link |
+| :--- | :--- | :--- |
+| **jaydenjcpy** | Ko-fi | [<img src="https://img.shields.io/badge/Donate-jaydenjcpy-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Donate jaydenjcpy">](https://ko-fi.com/jaydenjcpy) |
+| **faroukbmiled** | Coffee | [<img src="https://img.shields.io/badge/Donate-faroukbmiled-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Donate faroukbmiled">](https://buymeacoffee.com/axryuk) |
+| **Mod4** | To Be added | [<img src="https://img.shields.io/badge/Donate-Mod4-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Donate Mod4">]() |
+
+---
 ### 💬 Socials
 
 - [<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">](https://t.me/compiledipas) Join our channel for updates and IPAs at [t.me/compiledipas](https://t.me/compiledipas).
