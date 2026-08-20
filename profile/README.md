@@ -52,7 +52,7 @@ If you'd like to support the team members directly for their work and reverse en
 | :--- | :--- | :--- |
 | **jaydenjcpy** | Ko-fi | [<img src="https://img.shields.io/badge/Donate-jaydenjcpy-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Donate jaydenjcpy">](https://ko-fi.com/jaydenjcpy) |
 | **faroukbmiled** | Coffee | [<img src="https://img.shields.io/badge/Donate-faroukbmiled-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Donate faroukbmiled">](https://buymeacoffee.com/axryuk) |
-| **Mod4** | To Be added | [<img src="https://img.shields.io/badge/Donate-Mod4-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Donate Mod4">]() |
+| **Mod4** | Ko-fi | [<img src="https://img.shields.io/badge/Donate-Mod4-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" alt="Donate Mod4">](https://ko-fi.com/mo0d4) |
 
 ---
 ### 💬 Socials
