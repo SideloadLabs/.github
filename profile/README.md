@@ -38,9 +38,9 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 
 | Member | Role | GitHub |
 | :--- | :--- | :--- |
-| **jaydenjcpy** | Maintainer / Developer | [@jaydenjcpy](https://github.com/jaydenjcpy) |
-| **faroukbmiled** | Maintainer / Developer | [@faroukbmiled](https://github.com/faroukbmiled) |
-| **Mod4** | Maintainer / Developer | [@Mod4](https://github.com/M0d-4) |
+| **jaydenjcpy** | Maintainer / Developer | [jaydenjcpy](https://github.com/jaydenjcpy) |
+| **faroukbmiled** | Maintainer / Developer | [faroukbmiled](https://github.com/faroukbmiled) |
+| **Mod4** | Maintainer / Developer | [Mod4](https://github.com/M0d-4) |
 
 ---
 
