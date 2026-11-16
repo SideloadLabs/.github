@@ -25,7 +25,7 @@ Hi, we're **SideloadLabs**, a few devs who just wanna collaborate and build awes
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[EeveeSpotifyReincarnated](https://github.com/SideloadLabs/EeveeSpotifyReincarnated)** | Enhancing your Spotify experience on iOS. Continuing the legacy with modern architectures, custom lyrics support, and upstream bug fixes. | 🟢 **Active** |
-| **[Infinitok](https://github.com/SideloadLabs/Infinitok-public)** | A super duper cool TikTok tweak |  🟡  **Source to Be Released** |
+| **[Infinitok](https://github.com/SideloadLabs/Infinitok-public)** | A super duper cool TikTok tweak |  🟢 **Active** |
 | **[LiveContainerPlus](https://github.com/SideloadLabs/LiveContainerPlus)** | The best LiveContainer fork |  🟢 **Active** |
 
 </div>
